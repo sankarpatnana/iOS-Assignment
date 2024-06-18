@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icone-cercle-jaune.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
